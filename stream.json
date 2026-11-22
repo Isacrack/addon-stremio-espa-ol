@@ -1,0 +1,24 @@
+{
+  "miraculous-s1-e1": {
+    "streams": [
+      {
+        "name": "T1 E01 - El Origami Héroe",
+        "url": "https://filemoon.sx/d/4jjszw3nbv4a/1x01l4dybvg-plydd-t0rm3nt0s4.mp4",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      }
+    ]
+  },
+  "miraculous-s1-e2": {
+    "streams": [
+      {
+        "name": "T1 E02 - Señor Palomas",
+        "url": "AQUI_PEGA_EL_ENLACE_DEL_EPISODIO_2",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      }
+    ]
+  }
+}
