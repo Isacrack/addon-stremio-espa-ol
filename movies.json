@@ -1,0 +1,45 @@
+{
+  "series": [
+    {
+      "id": "miraculous-ladybug",
+      "type": "series",
+      "name": "Miraculous: Las aventuras de Ladybug",
+      "originalTitle": "Miraculous: Les aventures de Ladybug",
+      "year": 2015,
+      "director": "Thomas Astruc",
+      "genre": "Animación / Superhéroes / Infantil",
+      "description": "Marinette es una adolescente parisina que se transforma en Ladybug, una superheroína que, junto a Cat Noir, protege a la ciudad de los villanos creados por la mariposa maligna.",
+      "poster": "https://placehold.co/400x600/ff69b4/ffffff?text=Miraculous+Ladybug",
+      "background": "https://placehold.co/1280x720/880e4f/ffffff?text=Miraculous+Ladybug",
+      "audioLanguage": "español (castellano)",
+      "subtitleLanguages": ["español"]
+    },
+    {
+      "id": "doraemon",
+      "type": "series",
+      "name": "Doraemon",
+      "originalTitle": "ドラえもん",
+      "year": 1979,
+      "director": "Fujiko F. Fujio",
+      "genre": "Animación / Ciencia ficción",
+      "description": "Un gato robótico del futuro ayuda a un niño llamado Nobita con gadgets increíbles.",
+      "poster": "https://placehold.co/400x600/2196f3/ffffff?text=Doraemon",
+      "background": "https://placehold.co/1280x720/1565c0/ffffff?text=Doraemon",
+      "audioLanguage": "español (castellano)"
+    },
+    {
+      "id": "one-piece",
+      "type": "series",
+      "name": "One Piece",
+      "originalTitle": "ワンピース",
+      "year": 1999,
+      "director": "Eiichiro Oda",
+      "genre": "Animación / Aventura",
+      "description": "Monkey D. Luffy busca el tesoro legendario One Piece para convertirse en Rey de los Piratas.",
+      "poster": "https://placehold.co/400x600/ff5722/ffffff?text=One+Piece",
+      "background": "https://placehold.co/1280x720/e64a19/ffffff?text=One+Piece",
+      "audioLanguage": "español (castellano)"
+    }
+  ],
+  "movies": [] 
+}
