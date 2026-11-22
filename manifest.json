@@ -1,17 +1,17 @@
 {
-  "id": "org.example.hisum-ladybug",
-  "version": "1.0.0",
-  "name": "HiSum Ladybug & Series",
-  "description": "Addon para ver Miraculous Ladybug y otras series desde HiSum en Stremio.",
-  "logo": "https://placehold.co/256x256/ff69b4/ffffff?text=HiSum",
+  "id": "org.example.ladybug-static",
+  "version": "1.0.1",
+  "name": "Miraculous Ladybug - Direct Links",
+  "description": "Add-on estático con enlaces directos a episodios.",
+  "logo": "https://placehold.co/256x256/ff69b4/ffffff?text=Ladybug",
   "resources": ["catalog", "stream"],
-  "types": ["movie", "series"],
-  "idPrefixes": ["tt", "anime"],
+  "types": ["series"],
+  "idPrefixes": ["anime"],
   "catalogs": [
     {
       "type": "series",
-      "id": "hi-sum-series",
-      "name": "Series HiSum"
+      "id": "miraculous-catalog",
+      "name": "Series Animadas"
     }
   ]
 }
